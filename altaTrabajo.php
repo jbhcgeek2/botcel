@@ -170,21 +170,15 @@ session_start();
                           <input type="text" name="accesorioServicio" id="accesorioServicio" class="form-control">
                         </div>
 
-                        <div class="col-sm-12 mb-3">
-                          <div class="input-group">
-                            <span class="input-group-text p-3">Descripcion del Problema <span class='text-danger fw-bold'>*</span></span>
-                            <textarea name="descripcionProblema" id="descripcionProblema" style="height:70px;"
-                            class="form-control" required></textarea>
+                        <div class="col-sm-12 col-lg-6 mb-3">
+                            <span class="form-label">Descripcion del Problema <span class='text-danger fw-bold'>*</span></span>
+                            <input type="text" name="descripcionProblema" id="descripcionProblema" class="form-control">
                             <div class="invalid-feedback">Indique la problematica que presenta el dispositivo</div>
-                          </div>
                         </div>
 
-                        <div class="col-sm-12 mb-3">
-                          <div class="input-group">
-                            <span class="input-group-text">Observaciones</span>
-                            <textarea name="observServicio" id="observServicio" style="height:70px;"
-                            class="form-control"></textarea>
-                          </div>
+                        <div class="col-sm-12 col-lg-6 mb-3">
+                            <span class="form-label">Observaciones</span>
+                            <input type="text" name="observServicio" id="observServicio" class="form-control">                          
                         </div>
 
                         <div class="col-sm-12 col-md-4 col-lg-3 mb-3">
