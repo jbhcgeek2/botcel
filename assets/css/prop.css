@@ -1,0 +1,34 @@
+.imagenPerfil {
+  border-radius: 50%;
+}
+
+.imagenProducto {
+  border-radius: 10%;
+  width: 120px;
+  height: 120px;
+  border-color: black;
+}
+
+.grayScale{
+  filter: grayscale(100%);
+}
+
+.l-bg-cherry {
+  background: linear-gradient(to right, #493240, #f09) !important;
+  color: #fff;
+}
+
+.l-bg-blue-dark {
+  background: linear-gradient(to right, #373b44, #4286f4) !important;
+  color: #fff;
+}
+
+.l-bg-green-dark {
+  background: linear-gradient(to right, #0a504a, #38ef7d) !important;
+  color: #fff;
+}
+
+.l-bg-orange-dark {
+  background: linear-gradient(to right, #a86008, #ffba56) !important;
+  color: #fff;
+}
