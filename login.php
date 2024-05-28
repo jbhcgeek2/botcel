@@ -18,7 +18,7 @@
 <body class="app app-login p-0">    	
 
     <div class="row g-0 app-auth-wrapper">
-	    <div class="col-12 col-md-7 col-lg-6 auth-main-col text-center p-5">
+	    <div class="col-12 col-md-12 col-lg-12 auth-main-col text-center p-5">
 		    <div class="d-flex flex-column align-content-end">
 			    <div class="app-auth-body mx-auto">	
 				    <div class="app-auth-branding mb-4"><a class="app-logo" href="../"><img class="logo-icon me-2" src="assets/images/logo-postRepair.png" alt="logo"></a></div>
