@@ -1,9 +1,9 @@
 <?php
 
-  $us = "u427759545_adminRepair";
+  $us = "u427759545_botcelUser";
   $pw = "#Benja.GeeK0";
   $ht = "localhost";
-  $db = "u427759545_postrepair";
+  $db = "u427759545_botcel";
 
   $conexion = mysqli_connect($ht,$us,$pw)or die
   ("Ocurrio un error al comunicarse con la base de datos: ".mysqli_error($conexion));
