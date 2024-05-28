@@ -8,7 +8,7 @@
     
     <meta name="description" content="ERP para talleres de reparacion celular">
     <meta name="author" content="Joel Benjamin Hernandez Cueto">    
-    <link rel="shortcut icon" href="assets/images/logo-postRepair.png"> 
+    <!-- <link rel="shortcut icon" href="#">  -->
     
     <!-- FontAwesome JS-->
     <script defer src="assets/plugins/fontawesome/js/all.min.js"></script>
