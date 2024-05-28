@@ -48,8 +48,6 @@
 						<div class="auth-option text-center pt-5">Aun no tienes cuenta? Registrate <a class="text-link" href="registro.php" >Aqui</a>.</div>
 						
 						
-						
-						
 					</div><!--//auth-form-container-->	
 
 			    </div><!--//auth-body-->
